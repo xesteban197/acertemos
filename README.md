@@ -1,6 +1,8 @@
 
 ## **** comandos para ejecutar el proyecto *******
 ##
+##  crear en la bd la base de datos con nombre acertemos 
+##
 ##  *** ejecutar migraciones y datos de prueba ***
 ##  php artisan migrate --seed
 ##  **********************************************
